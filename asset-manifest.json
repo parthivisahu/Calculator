@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.74699e1f.css",
-    "main.js": "/static/js/main.abd981c5.js",
-    "static/media/sun_day.png": "/static/media/sun_day.a822c5c1338ade09351e.png",
-    "static/media/moon_night.jpg": "/static/media/moon_night.363d4e502d77b74a1ea8.jpg",
-    "index.html": "/index.html",
-    "main.74699e1f.css.map": "/static/css/main.74699e1f.css.map",
-    "main.abd981c5.js.map": "/static/js/main.abd981c5.js.map"
+    "main.css": "/Calculator/static/css/main.74699e1f.css",
+    "main.js": "/Calculator/static/js/main.34671306.js",
+    "static/media/sun_day.png": "/Calculator/static/media/sun_day.a822c5c1338ade09351e.png",
+    "static/media/moon_night.jpg": "/Calculator/static/media/moon_night.363d4e502d77b74a1ea8.jpg",
+    "index.html": "/Calculator/index.html",
+    "main.74699e1f.css.map": "/Calculator/static/css/main.74699e1f.css.map",
+    "main.34671306.js.map": "/Calculator/static/js/main.34671306.js.map"
   },
   "entrypoints": [
     "static/css/main.74699e1f.css",
-    "static/js/main.abd981c5.js"
+    "static/js/main.34671306.js"
   ]
 }
